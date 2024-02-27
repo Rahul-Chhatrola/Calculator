@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_00">0.0</string>
+    <string name="_0">0</string>
+    <string name="_dot">.</string>
+    <string name="is_equals_to">=</string>
+</resources>
